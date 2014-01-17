@@ -8,8 +8,10 @@
 
 .bgs1{
 
-background:url(../images/test1.jpg) 50% 0 no-repeat fixed;
+background:url(../images/test1.jpg) 100% 0 fixed;
   color: white;
+
+
   height: 680px;
   margin: 0 auto;
   padding: 0;
@@ -21,7 +23,7 @@ background:url(../images/test1.jpg) 50% 0 no-repeat fixed;
 
 background:url(../images/ipad.jpg) 50% 0 no-repeat fixed;
   color: white;
-  height: 450px;
+  height: 380px;
   margin: 0 auto;
   padding: 0;
 }
@@ -31,7 +33,7 @@ background:url(../images/ipad.jpg) 50% 0 no-repeat fixed;
 
 .bgs3{
 
-background:url(../images/ipad.jpg) 50% 0 no-repeat fixed;
+background:url(../images/test1.jpg) 50% 0  fixed;
   color: white;
   height: 150px;
   margin: 0 auto;
