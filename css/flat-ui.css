@@ -307,7 +307,7 @@ h6,
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.1;
-  color: inherit;
+  
 }
 h1 small,
 h2 small,
@@ -362,8 +362,11 @@ h5,
 }
 h6,
 .h6 {
-  font-size: 14px;
+  
   color: #2c3e50;
+  font-size: 18px;
+line-height: 1.72222;
+margin: 0 0 15px;
 }
 
 .page-header {
