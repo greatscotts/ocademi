@@ -5944,6 +5944,7 @@ button.close {
   bottom: 0;
   left: 0;
   z-index: 1040;
+
   display: none;
   overflow: auto;
   overflow-y: scroll;
@@ -6066,7 +6067,7 @@ button.close {
 
 @media screen and (min-width: 768px) {
   .modal-dialog {
-    width: 600px;
+    width: 1000px;
     margin: 30px auto;
   }
   .modal-content {
