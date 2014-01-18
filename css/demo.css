@@ -149,10 +149,11 @@ line-height: 1.22222;
 
 .foot{
 
-
-  color: #ffffff;
-  font-size: 28px;
-line-height: 1.22222;
+background:url(../images/foot.png) 50% 0  no-repeat fixed;
+  color: white;
+  height: 120px;
+  margin: 0 auto;
+  padding: 0;
 
 }
 
