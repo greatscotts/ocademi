@@ -50,6 +50,16 @@ background:url(../images/about.png) 50% 0  no-repeat fixed;
   padding: 0;
 }
 
+
+.cover{
+
+background:url(../images/wlp.png) 50% 0  no-repeat fixed;
+  color: white;
+  height: 480px;
+  margin: 0 auto;
+  padding: 0;
+}
+
 .classtitle{
 
 
