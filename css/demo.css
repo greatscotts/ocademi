@@ -149,9 +149,9 @@ line-height: 1.22222;
 
 .foot{
 
-background:url(../images/foot.png) 50% 0  no-repeat fixed;
+background:url(../images/foot.png) 100% 0   fixed;
   color: white;
-  height: 160px;
+  height: 200px;
   margin: 0 auto;
   padding: 0;
 
