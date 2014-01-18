@@ -37,6 +37,7 @@ background:url(../images/test1.jpg) 50% 0  fixed;
   color: white;
   height: 150px;
   margin: 0 auto;
+
   padding: 0;
 }
 
@@ -45,8 +46,9 @@ background:url(../images/test1.jpg) 50% 0  fixed;
 
 background:url(../images/about.png)  no-repeat ;
   color: white;
-  height: 680px;
+  height: 530px;
   margin: 0 auto;
+   margin-left: 85px;
   padding: 0;
 }
 
