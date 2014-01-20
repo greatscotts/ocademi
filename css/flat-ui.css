@@ -213,7 +213,7 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #d35400;
+  color: #e67e22;
 margin-right:  auto;
 margin-left:  auto;
   text-decoration: none;
@@ -223,7 +223,7 @@ margin-left:  auto;
 a:hover,
 a:focus {
   color: #1abc9c;
-  
+
   text-decoration: none;
 }
 a:focus {
