@@ -213,7 +213,9 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #16a085;
+  color: #d35400;
+margin-right:  auto;
+margin-left:  auto;
   text-decoration: none;
   -webkit-transition: 0.25s;
   transition: 0.25s;
@@ -1798,6 +1800,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   }
   .navbar-collapse .navbar-nav.navbar-right:last-child {
     margin-right: -11px;
+
   }
   .navbar > .container .navbar-collapse .navbar-nav.navbar-right:last-child {
     margin-right: -36px;
